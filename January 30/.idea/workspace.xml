@@ -35,7 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Calculating Dart Scores">
+  <component name="RunManager" selected="Python.Best_Compromise">
     <configuration name="Best_Compromise" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="January 30" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,8 +122,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Calculating Dart Scores" />
         <item itemvalue="Python.Best_Compromise" />
+        <item itemvalue="Python.Calculating Dart Scores" />
         <item itemvalue="Python.Mirror_Images" />
         <item itemvalue="Python.FizzBuzz" />
       </list>
@@ -147,7 +147,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

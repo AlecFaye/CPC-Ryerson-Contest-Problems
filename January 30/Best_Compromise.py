@@ -14,15 +14,17 @@ for test in range(T):
         arr.append(num)
 
     compromise = ""
-    zero = True
 
     for col in range(N):
-        zero = True
+        zero = 0
+        one = 0
 
         for row in range(M):
-            if arr[row][col] == "1":
-                zero = not zero
-        if zero:
+            if arr[row][col] == "0":
+                zero += 1
+            else:
+                one += 1
+        if zero > one:
             compromise += "0"
         else:
             compromise += "1"
