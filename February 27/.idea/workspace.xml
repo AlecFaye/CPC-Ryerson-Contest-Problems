@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c605ca25-af03-4443-9879-d251622ea3cc" name="Default Changelist" comment="" />
+    <list default="true" id="5399d4ac-147b-4a68-9d65-2bf472bcf45a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +18,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1XpTmfO6ihalWnPaWkix0obQeIz" />
+  <component name="ProjectId" id="1YStT1vTlzpLhstgYj1z6757DUz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -36,9 +35,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Adding_Words">
-    <configuration name="Adding_Words" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="February 13" />
+  <component name="RunManager" selected="Python.Digital_Display">
+    <configuration name="Avion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="February 27" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -49,7 +48,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Adding_Words.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Avion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,8 +57,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="This_Ain't_Your_Grandpa's_Checkerboard" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="February 13" />
+    <configuration name="Digital_Display" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="February 27" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -70,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/This_Ain't_Your_Grandpa's_Checkerboard.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Digital_Display.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,8 +78,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Warehouse" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="February 13" />
+    <configuration name="Human_Cannonball" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="February 27" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -91,7 +90,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Warehouse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Human_Cannonball.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Planina" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="February 27" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Planina.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,9 +122,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Adding_Words" />
-        <item itemvalue="Python.Warehouse" />
-        <item itemvalue="Python.This_Ain't_Your_Grandpa's_Checkerboard" />
+        <item itemvalue="Python.Digital_Display" />
+        <item itemvalue="Python.Human_Cannonball" />
+        <item itemvalue="Python.Avion" />
+        <item itemvalue="Python.Planina" />
       </list>
     </recent_temporary>
   </component>
@@ -113,11 +134,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c605ca25-af03-4443-9879-d251622ea3cc" name="Default Changelist" comment="" />
-      <created>1581742196890</created>
+      <changelist id="5399d4ac-147b-4a68-9d65-2bf472bcf45a" name="Default Changelist" comment="" />
+      <created>1582947827097</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581742196890</updated>
+      <updated>1582947827097</updated>
     </task>
     <servers />
   </component>
@@ -126,9 +147,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
