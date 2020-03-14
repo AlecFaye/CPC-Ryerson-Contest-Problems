@@ -5,6 +5,10 @@ def calculate_area():
     pass
 
 
+def draw_shape(coords):
+    pass
+
+
 coordinates = []
 area = 0
 
@@ -22,4 +26,5 @@ for line in fileinput.input():
     else:
         coordinates.append((line[0], line[1]))
 
-
+    if len(coordinates) >= 3:
+        draw_shape(coordinates)
